@@ -1,2 +1,2 @@
-# TECH-Y
-TECH BLOG INSPIRED BY 2000's WEBSITES
+# LNX-MNT-BLOG
+Blog to document Linux Mint
